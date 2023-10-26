@@ -25,3 +25,5 @@ Note:
 Please be aware that the API used in this program may not support all currencies. As a result, the program may generate empty values for those currencies that are not supported. You can refer to the list of supported currencies at Supported Currencies for further information.
 
 # PySpark
+
+All code for pyspark exercise is available in exercise_pyspark.ipynb.
